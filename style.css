@@ -48,7 +48,7 @@ body {
 .answer:hover .answer__txt {    
     
     background-color: rgb(84, 190, 42);
-    text-shadow: 0 0 15px rgba(236, 232, 12, 0.616);
+/*     text-shadow: 0 0 15px rgba(236, 232, 12, 0.616); */
 }
 
 @-webkit-keyframes bounce-in-top {
